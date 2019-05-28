@@ -8,7 +8,7 @@ public static void main(String[] args)throws FileNotFoundException, UnsupportedE
         
         Scanner sc = new Scanner(System.in);//to scan from STD
         
-        String line = sc.nextline();
+        String line = sc.nextLine();
         String set[] = line.split("\\s");//multiple input per line
         int singleint = Integer.parseint(line); //single int input
         
