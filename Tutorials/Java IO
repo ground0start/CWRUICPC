@@ -25,4 +25,11 @@ public static void main(String[] args)throws FileNotFoundException, UnsupportedE
         
         }
         
+        //指数
+        Math.power(2,4); //2 to the 4th
         
+        //String to int
+        Integer.parseInt(String);
+        
+        //int to string
+        Integer.toString(String);
